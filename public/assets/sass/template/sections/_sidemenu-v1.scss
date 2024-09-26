@@ -32,7 +32,6 @@
     }
   }
 
-
   .sidemenu-content {
     background-color: $title-color;
     width: 450px;
@@ -48,22 +47,20 @@
     &::-webkit-scrollbar-track {
       -webkit-box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.1);
       box-shadow: inset 0 0 1px rgba(0, 0, 0, 0.1);
-      background-color: #F5F5F5;
+      background-color: #f5f5f5;
     }
 
     &::-webkit-scrollbar {
       width: 2px;
-      background-color: #F5F5F5;
+      background-color: #f5f5f5;
     }
-
-  } 
+  }
 
   .widget {
     padding: 0;
     border: none;
     background-color: transparent;
   }
-
 
   &.show {
     opacity: 1;
@@ -77,7 +74,6 @@
       visibility: visible;
     }
   }
-
 }
 
 @include sm {

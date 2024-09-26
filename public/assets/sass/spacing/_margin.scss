@@ -1,44 +1,44 @@
 /*-- margin Left And Right --*/
 @for $i from 1 through $space-count {
   .mx-#{5 * $i} {
-    margin-right: 5px *$i;
-    margin-left: 5px *$i;
+    margin-right: 5px * $i;
+    margin-left: 5px * $i;
   }
 }
 
 /*-- margin Top And Bottom --*/
 @for $i from 1 through $space-count {
   .my-#{5 * $i} {
-    margin-top: 5px *$i;
-    margin-bottom: 5px *$i;
+    margin-top: 5px * $i;
+    margin-bottom: 5px * $i;
   }
 }
 
 /*-- margin Top --*/
 @for $i from 1 through $space-count {
   .mt-#{5 * $i} {
-    margin-top: 5px *$i;
+    margin-top: 5px * $i;
   }
 }
 
 /*-- margin Bottom --*/
 @for $i from 1 through $space-count {
   .mb-#{5 * $i} {
-    margin-bottom: 5px *$i;
+    margin-bottom: 5px * $i;
   }
 }
 
 /*-- margin Left --*/
 @for $i from 1 through $space-count {
   .ml-#{5 * $i} {
-    margin-left: 5px *$i;
+    margin-left: 5px * $i;
   }
 }
 
 /*-- margin Right --*/
 @for $i from 1 through $space-count {
   .mr-#{5 * $i} {
-    margin-right: 5px *$i;
+    margin-right: 5px * $i;
   }
 }
 
@@ -50,11 +50,11 @@
 }
 
 .mt-n1 {
-  margin-top: -.25rem;
+  margin-top: -0.25rem;
 }
 
-.mt-n2{
-  margin-top: -.65rem;
+.mt-n2 {
+  margin-top: -0.65rem;
 }
 
 .mt-n3 {
@@ -70,11 +70,11 @@
 }
 
 .mb-n1 {
-  margin-bottom: -.25rem;
+  margin-bottom: -0.25rem;
 }
 
-.mb-n2{
-  margin-bottom: -.6rem;
+.mb-n2 {
+  margin-bottom: -0.6rem;
 }
 
 .mb-n3 {
@@ -88,5 +88,3 @@
 .mb-n5 {
   margin-bottom: -3rem;
 }
-
-

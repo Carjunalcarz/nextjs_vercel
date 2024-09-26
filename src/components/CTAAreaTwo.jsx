@@ -1,5 +1,3 @@
-
-
 const CTAAreaTwo = () => {
   return (
     <div className="cta-area-2">
@@ -33,7 +31,7 @@ const CTAAreaTwo = () => {
             </div>
             <div className="col-lg-5">
               <div className="cta2-bg-thumb">
-                <img src="assets/img/normal/cta-thumb-2-1.png" alt="Fixturbo"/>
+                <img src="assets/img/normal/cta-thumb-2-1.png" alt="Fixturbo" />
               </div>
             </div>
           </div>

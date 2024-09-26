@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 
 const FooterAreaThree = () => {
@@ -65,7 +64,9 @@ const FooterAreaThree = () => {
                   </p>
                   <p>
                     <i className="fas fa-envelope me-2 text-theme" />
-                    <Link href="mailto:infoname@mail.com">infoname@mail.com</Link>
+                    <Link href="mailto:infoname@mail.com">
+                      infoname@mail.com
+                    </Link>
                   </p>
                   <p>
                     <i className="fas fa-map-marker-alt me-2 text-theme" />

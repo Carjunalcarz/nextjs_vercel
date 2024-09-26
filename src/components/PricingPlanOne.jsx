@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-
 const PricingPlanOne = () => {
   return (
     <div className="pricing-area space">

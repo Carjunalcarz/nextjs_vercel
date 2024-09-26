@@ -12,9 +12,7 @@ const ContactArea = () => {
                   <i className="fas fa-map-marker-alt" />
                 </div>
                 <h6 className="contact-info_title">Address</h6>
-                <p className="contact-info_text">
-                  6391 Celina, Delaware
-                </p>
+                <p className="contact-info_text">6391 Celina, Delaware</p>
                 <p className="contact-info_text">Mirpur,Bangladesh</p>
               </div>
             </div>

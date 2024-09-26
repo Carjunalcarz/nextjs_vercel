@@ -1,4 +1,3 @@
-
 const AppointmentAreaTwo = () => {
   return (
     <div
@@ -61,9 +60,7 @@ const AppointmentAreaTwo = () => {
                           className="form-select style-border"
                           defaultValue={"Choose"}
                         >
-                          <option value="Choose" >
-                            Choose a Option
-                          </option>
+                          <option value="Choose">Choose a Option</option>
                           <option value="Construction">Auto Repair</option>
                           <option value="Real Estate">Car Repair</option>
                           <option value="Industry">Automotive</option>

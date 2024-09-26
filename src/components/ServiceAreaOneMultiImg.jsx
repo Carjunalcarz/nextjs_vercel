@@ -10,7 +10,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-1.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-1.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Auto Fixers</Link>
@@ -32,7 +35,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-2.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-2.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Mechanic Masters</Link>
@@ -54,7 +60,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-3.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-3.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Drive-In Garage</Link>
@@ -76,7 +85,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-4.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-4.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Car Care Clinic</Link>
@@ -98,7 +110,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-5.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-5.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Car Repair Services</Link>
@@ -120,7 +135,10 @@ const ServiceAreaOneMultiImg = () => {
             <div className="service-card style-shadow">
               <div className="service-card_content">
                 <div className="service-card_icon">
-                  <img src="assets/img/icon/service-icon_1-6.svg" alt="Fixturbo" />
+                  <img
+                    src="assets/img/icon/service-icon_1-6.svg"
+                    alt="Fixturbo"
+                  />
                 </div>
                 <h4 className="service-card_title h5">
                   <Link to="/service-details">Repair Solutions</Link>

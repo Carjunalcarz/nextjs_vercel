@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-
 const CTAAreaOne = () => {
   return (
     <div className="cta-area-1">

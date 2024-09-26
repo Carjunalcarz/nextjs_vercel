@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import React, { useState } from "react";
 import Slider from "rc-slider";
 import Link from "next/link";

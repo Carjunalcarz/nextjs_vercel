@@ -1,13 +1,11 @@
 .tinv-wishlist {
-
-  input[type=checkbox] {
+  input[type="checkbox"] {
     display: inline-block;
     opacity: 1;
     visibility: visible;
     vertical-align: middle;
     width: auto;
     height: auto;
-
   }
 
   .tinv-header {
@@ -31,7 +29,7 @@
     margin-top: 10px;
     font-weight: 700;
 
-    &:Hover {
+    &:hover {
       background-color: $title-color;
       color: $white-color;
     }
@@ -41,7 +39,8 @@
     th {
       color: $title-color;
     }
-    td, th {
+    td,
+    th {
       padding: 15.3px 10px;
       border-bottom: 1px solid var(--border-color);
       text-align: center;
@@ -118,7 +117,6 @@
     }
   }
 
-
   button.button {
     border: none;
     height: 40px;
@@ -169,7 +167,7 @@
   }
 
   .social-buttons {
-    >span {
+    > span {
       font-weight: 700;
       margin-right: 10px;
       font-family: $title-font;
@@ -205,16 +203,15 @@
   }
 }
 
-
 @include md {
   .tinvwl-full {
     display: none;
   }
   .tinv-wishlist .tinvwl-mobile {
-    display: block ;
+    display: block;
   }
   .tinvwl-txt {
-  display: none !important;
+    display: none !important;
   }
   .product-stock {
     width: 40px;
@@ -227,10 +224,12 @@
     table-layout: fixed;
     border-bottom: 1px solid $border-color;
   }
-  .tinv-wishlist table.tinvwl-table-manage-list tbody td.product-remove, .tinv-wishlist table.tinvwl-table-manage-list thead th:not(.product-name) {
+  .tinv-wishlist table.tinvwl-table-manage-list tbody td.product-remove,
+  .tinv-wishlist table.tinvwl-table-manage-list thead th:not(.product-name) {
     display: none;
   }
-  .tinv-wishlist table td, .tinv-wishlist table th {
+  .tinv-wishlist table td,
+  .tinv-wishlist table th {
     border: 1px solid var(--border-color);
   }
   .tinv-wishlist table.tinvwl-table-manage-list tbody td {

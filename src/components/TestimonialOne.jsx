@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, FreeMode, Thumbs, EffectFade } from "swiper";
@@ -12,7 +12,10 @@ const TestimonialOne = () => {
         <div className="row">
           <div className="col-lg-6">
             <div className="testimonial-thumb1">
-              <img src="assets/img/testimonial/testimonial-1-1.png" alt="Fixturbo" />
+              <img
+                src="assets/img/testimonial/testimonial-1-1.png"
+                alt="Fixturbo"
+              />
             </div>
           </div>
           <div className="col-lg-6">

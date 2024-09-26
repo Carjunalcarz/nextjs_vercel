@@ -13,7 +13,6 @@
   transform: translateX(-50%);
   transition: all ease 0.4s;
 
-
   button.searchClose {
     width: 50px;
     height: 50px;
@@ -82,12 +81,11 @@
       height: 70px;
       transition: all ease 0.4s;
       transform: scale(1.001);
-      
+
       &:hover {
         transform: scale(1.1);
       }
     }
-
   }
 
   &.show {
@@ -103,7 +101,6 @@
       transform: translate(-50%, -50%) scale(1);
     }
   }
-
 }
 
 @include sm {

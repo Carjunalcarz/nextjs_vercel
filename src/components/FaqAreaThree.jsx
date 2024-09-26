@@ -1,4 +1,3 @@
-
 const FaqAreaThree = () => {
   return (
     <div className="faq-area-1 space">

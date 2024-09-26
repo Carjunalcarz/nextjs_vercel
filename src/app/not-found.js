@@ -26,7 +26,7 @@ export default function NotFound() {
                     PAGE NOT FOUND!
                   </h4>
                   <p data-aos="fade-up" data-aos-delay="400">
-                    Sorry we can't find that page! The page you are looking
+                    Sorry we can&apos;t find that page! The page you are looking
                     <br />
                     for was never existed.
                   </p>

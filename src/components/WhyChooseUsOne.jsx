@@ -1,5 +1,3 @@
-
-
 const WhyChooseUsOne = () => {
   return (
     <div className="wcu-area-1 space-bottom">

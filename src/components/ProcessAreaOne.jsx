@@ -1,5 +1,3 @@
-
-
 const ProcessAreaOne = () => {
   return (
     <section className="process-area-1 space position-relative">
@@ -30,7 +28,10 @@ const ProcessAreaOne = () => {
           <div className="col-lg-4 process-card-wrap">
             <div className="process-card">
               <div className="process-card-icon">
-                <img src="/assets/img/icon/process-icon-1-1.svg" alt="Fixturbo" />
+                <img
+                  src="/assets/img/icon/process-icon-1-1.svg"
+                  alt="Fixturbo"
+                />
               </div>
               <h4 className="process-card-title">Mobile Car Repair</h4>
               <p className="process-card-text">
@@ -43,7 +44,10 @@ const ProcessAreaOne = () => {
           <div className="col-lg-4 process-card-wrap">
             <div className="process-card process-card-center">
               <div className="process-card-icon">
-                <img src="/assets/img/icon/process-icon-1-2.svg" alt="Fixturbo" />
+                <img
+                  src="/assets/img/icon/process-icon-1-2.svg"
+                  alt="Fixturbo"
+                />
               </div>
               <h4 className="process-card-title">Pro Auto Fix</h4>
               <p className="process-card-text">
@@ -56,7 +60,10 @@ const ProcessAreaOne = () => {
           <div className="col-lg-4 process-card-wrap">
             <div className="process-card">
               <div className="process-card-icon">
-                <img src="/assets/img/icon/process-icon-1-3.svg" alt="Fixturbo" />
+                <img
+                  src="/assets/img/icon/process-icon-1-3.svg"
+                  alt="Fixturbo"
+                />
               </div>
               <h4 className="process-card-title">Precision Auto Works</h4>
               <p className="process-card-text">

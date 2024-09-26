@@ -13,7 +13,7 @@ const HeaderFive = () => {
     for (let i = 0; i < offCanvasNavSubMenu.length; i++) {
       offCanvasNavSubMenu[i].insertAdjacentHTML(
         "beforebegin",
-        "<span class='mean-expand-class'>+</span>"
+        "<span class='mean-expand-class'>+</span>",
       );
     }
 
